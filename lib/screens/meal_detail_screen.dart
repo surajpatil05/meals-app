@@ -33,7 +33,7 @@ class MealDetailScreen extends ConsumerWidget {
                 ),
               );
             },
-            // Impplicit-Animation code below
+            // Implicit-Animation code below
             icon: AnimatedSwitcher(
               duration: const Duration(milliseconds: 300),
               transitionBuilder: (child, animation) {
@@ -64,7 +64,7 @@ class MealDetailScreen extends ConsumerWidget {
             ),
             const SizedBox(height: 14),
             Text(
-              'Incredients',
+              'Ingredients',
               style: Theme.of(context).textTheme.titleLarge!.copyWith(
                     color: Theme.of(context).colorScheme.primary,
                     fontWeight: FontWeight.bold,
