@@ -15,11 +15,11 @@ A **Flutter-based meal recipe app** that helps users browse, filter, and favorit
 ## 📸 Screenshots  
 <p align="center">
   <img src="./app_screenshots/home_screen.png" alt="Categories Screen" width="30%"/>  
-  <img src="./app_screenshots/list_item.png" alt="Meals List" width="30%"/>
-  <img src="./app_screenshots/item_information.png" alt="Filters Screen" width="30%"/>    
   <img src="./app_screenshots/items_list.png" alt="Meal Detail" width="30%"/>  
+  <img src="./app_screenshots/item_information.png" alt="Filters Screen" width="30%"/>    
   <img src="./app_screenshots/favourite_items_list.png" alt="Favorites Screen" width="30%"/>  
   <img src="./app_screenshots/app_drawer.png" alt="Main Drawer" width="30%"/>  
+  <img src="./app_screenshots/meal_filters.png" alt="Main Drawer" width="30%"/>  
 </p>
 
 
